@@ -1,0 +1,12 @@
+.polaris-emoji-mart {
+  position: relative;
+  z-index: 100;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.add-filter {
+  float: left;
+  width: 100%;
+  margin-bottom: 20px;
+  background: rgb(249, 250, 251) none repeat scroll 0% 0%;
+}

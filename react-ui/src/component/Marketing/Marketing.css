@@ -1,0 +1,69 @@
+._2kafY {
+  border-bottom: 0.1rem solid var(--p-border-subdued, #dfe3e8);
+}
+.Pt9SA {
+  padding: 1.4rem 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+._1DO4S {
+  flex: 0 0 auto;
+  margin-top: 0;
+  margin-left: 0;
+}
+._1ZhEV {
+  display: flex;
+  margin-right: 0.4rem;
+}
+._1Bu1z {
+  -moz-appearance: none;
+  display: inline;
+  text-align: inherit;
+  padding: 0;
+  background: none;
+  border: 0;
+  font-size: inherit;
+  color: var(--p-interactive, #006fbb);
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+}
+._2I5rM {
+  display: block;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+._2I5rM img {
+  height: 100%;
+  width: 100%;
+}
+._1BGO7 {
+  flex-grow: 1;
+}
+.RWeMr {
+  font-size: 1.6rem;
+}
+._1K7R9 {
+  white-space: nowrap;
+  text-align: right;
+}
+._3AdNm {
+  max-width: 575px;
+}
+._2jCLP {
+  flex-shrink: 1;
+  overflow: hidden;
+  padding-left: 1.6rem;
+}
+._3cBUM {
+  color: var(--p-text-subdued, #637381);
+}
+._1DO4S {
+  margin-top: 0;
+  margin-left: 0;
+}
+._3AdNm > a,
+._3AdNm > a:visited {
+  color: inherit;
+}
